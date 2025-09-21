@@ -116,10 +116,10 @@ export default function HomePage() {
                 <h3 className="mt-5 text-xl font-bold text-gray-900">
                   AI-Powered Analysis
                 </h3>
-                <p className="mt-2 text-gray-600">
-                  Leverages Google's Gemini to intelligently extract and
-                  structure key information from any CV format.
-                </p>
+               <p className="mt-2 text-gray-600">
+  Leverages Google&apos;s Gemini to intelligently extract and
+  structure key information from any CV format.
+</p>
               </div>
               <div className="bg-gray-50 p-8 rounded-xl border border-gray-100 transition-all hover:shadow-lg hover:border-indigo-200">
                 <div className="bg-indigo-100 text-indigo-600 rounded-full h-12 w-12 flex items-center justify-center">
@@ -203,10 +203,10 @@ export default function HomePage() {
                   1
                 </div>
                 <h3 className="mt-6 text-xl font-bold">Define Your Job</h3>
-                <p className="mt-2 text-gray-600">
-                  Enter the job title, description, and key skills you're
-                  looking for.
-                </p>
+               <p className="mt-2 text-gray-600">
+  Enter the job title, description, and key skills you&apos;re
+  looking for.
+</p>
               </div>
               <div className="flex flex-col items-center">
                 <div className="flex items-center justify-center h-20 w-20 rounded-full bg-indigo-600 text-white font-bold text-2xl border-4 border-indigo-200 shadow-lg">
