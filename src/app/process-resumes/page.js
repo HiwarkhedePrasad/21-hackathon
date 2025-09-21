@@ -73,7 +73,7 @@ export default function EnhancedProcessResumesPage() {
 
     // 3. Send to API
     try {
-      const response = await fetch("http://localhost:8000/process-resumes", {
+      const response = await fetch("https://two1-hackathon-python-agent-langgraph.onrender.com/process-resumes", {
         method: "POST",
         body: formData,
       });
@@ -704,3 +704,4 @@ const TierBadge = ({ tier }) => {
     </span>
   );
 };
+
